@@ -4,7 +4,7 @@
 ## Description
  Welcome to the Junipers SVG Generator – where simplicity meets creativity in the world of SVG shapes! You can generate simple SVG logos effortlessly via the commmand line. 
 
-![screanshot of application in use](assets/finished.png)
+![screanshot of application in use](assets/Finished.png)
 
 ## Installation & Usage
 1. Git clone this repo into your local device.  
