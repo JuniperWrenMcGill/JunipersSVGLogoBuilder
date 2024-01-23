@@ -1,5 +1,5 @@
 
-# Juniper's SVG Generator
+# Juniper's SVG Logo Generator
 ![License](https://img.shields.io/badge/license-MIT-brightgreen)
 ## Description
  Welcome to the Junipers SVG Generator – where simplicity meets creativity in the world of SVG shapes! You can generate simple SVG logos effortlessly via the commmand line. 
